@@ -4,17 +4,20 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff)  
 
-## 🚀 About Me  
-✨ **Passionate Developer | Tech Enthusiast | Lifelong Learner** ✨  
-- 👀 I’m interested in **Web Development, Open Source, and AI** 🤖💡  
-- 🌱 Currently diving deep into **Full-Stack Development & Machine Learning** 🧠💻  
-- 💞️ Open to collaborating on **exciting projects & open-source contributions** 🔥  
-- 🎯 My goal? **To build impactful, innovative, and scalable solutions!** 🌍💡  
+## 🚀 About Shailesh  
+✨ **Curious Developer | Tech Explorer | Lifelong Learner** ✨  
+
+- 👀 Shailesh is passionate about **Web Development, Python, and AI-based projects** 🤖💡  
+- 🌱 Currently diving deep into **Full-Stack Development using Flask, Firebase, and Machine Learning (XGBoost, Scikit-learn)** 🧠💻  
+- 🛠️ Skilled in **Python, C++, HTML, CSS, JavaScript**, with experience in **MongoDB 🌱, PHP, and Firebase Realtime Database**  
+- 💡 He’s also explored areas like **Phishing Website Detection, Telemedicine Platforms, and Student Utility Apps**  
+- 💞️ Loves collaborating on **open-source, innovative, and socially impactful projects** 🔥  
+- 🎯 His goal? **To build efficient, scalable, and meaningful tech solutions for real-world challenges!** 🌍  
 
 ### 📫 Connect with Me  
 📩 **Email:** [shaileshsuryawanshi443103@gmail.com](mailto:shaileshsuryawanshi443103@gmail.com)  
 💼 **LinkedIn:** [Shailesh Suryawanshi](https://www.linkedin.com/in/shailesh-suryawanshi-6989492a1/)  
-📸 **Instagram:** [@sarveshh.999__](https://www.instagram.com/29.shailesh_/?next=%2F&hl=en)  
+📸 **Instagram:** [@29.shailesh_](https://www.instagram.com/29.shailesh_/?next=%2F&hl=en)  
 
 🔹 **Fun fact:** *I once spent hours debugging, only to realize the issue was a missing semicolon. Now, I triple-check before questioning my life choices!* 😆💻  
 
@@ -32,7 +35,7 @@
 ⚙️ Node.js | 🐍 Python | ☕ Java | 🌱 MongoDB 
 
 ### 🛢️ **Database & Tools**  
-🗄️ MySQL | 🔥 Firebase | 🛠️ Git | 💻 Visual Studio Code  
+🗄️ MySQL | 🔥 Firebase | 🛠️ Git & GitHub | 💻 Visual Studio Code | 🐳 Docker
 
 ---
 
