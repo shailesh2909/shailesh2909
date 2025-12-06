@@ -1,68 +1,104 @@
-[0;32m███████╗██╗  ██╗ █████╗ ██╗██╗     ███████╗███████╗██╗  ██╗
-██╔════╝██║  ██║██╔══██╗██║██║     ██╔════╝██╔════╝██║ ██╔╝
-███████╗███████║███████║██║██║     █████╗  █████╗  █████╔╝ 
-╚════██║██╔══██║██╔══██║██║██║     ██╔══╝  ██╔══╝  ██╔═██╗ 
-███████║██║  ██║██║  ██║██║███████╗███████╗███████╗██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝[0m
+# 👋 Hi, I'm Shailesh Suryawanshi
 
-> Full-Stack Developer  
-> AI & ML Enthusiast  
-> UI/UX Designer  
-> Problem Solver | Terminal Lover
- 
-A passionate developer from PICT, Pune, crafting software with clean logic, purposeful design, and an obsession with building tools that actually solve real problems.
+**Full-Stack Developer • AI/ML Enthusiast • Designer**  
+Building efficient, scalable, and meaningful digital products.
 
-[✔] 1st Rank - Cyber Security Workshop Quiz (Pursuit 2023)
-[✔] 100+ LeetCode DSA Problems Solved
-[✔] Design Lead - Robotics Club, PICT
-[✔] Social Media Design Head - PICT
+---
 
-┌──────────────────────────────────────────────────────────────┐
-│ Gharpan Foundation | Full-Stack Intern                       │
-├──────────────────────────────────────────────────────────────┤
-│ • Built Orphan Management System                             │
-│ • Node.js + MongoDB Backend                                  │
-│ • React + Tailwind Frontend                                  │
-│ • Firebase Auth + GCP Integration                            │
-│ • Deployment on Vercel                                       │
-└──────────────────────────────────────────────────────────────┘
+## 🧑‍💻 About Me
 
-┌──────────────────────────────────────────────────────────────┐
-│ Sumago Infotech | Python Developer Intern                    │
-├──────────────────────────────────────────────────────────────┤
-│ • Built Healthcare Chatbot                                   │
-│ • Full-Stack (Python + PHP)                                  │
-│ • Gained hands-on production workflow experience             │
-└──────────────────────────────────────────────────────────────┘
+I'm an Electronics & Telecommunication Engineering student at **PICT, Pune**, passionate about creating solutions that improve everyday life.  
+I enjoy working across **frontend, backend, and machine learning**, and crafting clean, user-friendly interfaces.
 
-> VitalNex (Android App)
-    - Student utility app (rooms, mess, medical help)
-    - Java + Firebase + XML UI
+I believe in **learning by building**, which reflects in my hands-on projects and internships.
 
-> MediPlus (AI Telemedicine System)
-    - ML disease prediction
-    - Doctor recommendation engine
-    - Severity scoring system
-    - Flask + Firestore + Random Forest
-LANGUAGES: Python | Java | C++ | C | JavaScript | PHP | SQL | TypeScript
+---
 
-FRAMEWORKS: React | Node.js | Next.js | Flask | Bootstrap
+## 🚀 Core Highlights
+- Full-Stack Development (React, Node.js, Flask)
+- Machine Learning (Random Forest, Scikit-learn)
+- Mobile App Development (Java + Firebase)
+- Cloud Deployments (Firebase, Vercel)
+- Strong eye for UI/UX & design quality
 
-DATABASES: MongoDB | Firebase | MySQL | PostgreSQL | SQLite
+---
 
-DEVOPS: Docker | Kubernetes | AWS
+## 🏆 Achievements
+- 🥇 **1st Rank** — Cyber Security Workshop Quiz (Pursuit 2023)  
+- 💡 **100+ LeetCode DSA problems** solved  
+- 🎨 Held Design Lead roles at PICT (Robotics Club & Social Media Team)
 
-ML STACK: Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy
+---
 
-CORE CS: DSA | OOP | DBMS | OS | CN | Software Engineering
+## 💼 Experience
 
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&theme=chartreuse-dark&show_icons=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=chartreuse-dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailesh2909&theme=chartreuse_dark" /> </div>
+### **Full-Stack Intern — Gharpan Foundation (2025)**
+- Developed a complete Orphan Management System  
+- Built using **React + Tailwind**, **Node.js + MongoDB**  
+- Integrated Firebase & Google Cloud authentication  
+- Deployed on Vercel  
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shailesh2909&theme=matrix&margin-w=10&margin-h=10&no-frame=true" /> </div>
+---
 
-> email     : shaileshsuryawanshi443103@gmail.com
-> github    : github.com/shailesh2909
-> linkedin  : linkedin.com/in/shailesh-suryawanshi-6989492a1
+### **Python Developer Intern — Sumago Infotech (2024)**
+- Built a Healthcare Chatbot  
+- Worked with Python, PHP, HTML/CSS  
+- Strengthened full-stack development fundamentals  
 
-[0;32mSystem shutting down...
-Goodbye, Hacker. Keep building cool stuff.[0m
+---
+
+## 📌 Featured Projects
+
+### **🎒 VitalNex — Student Needs Android App**  
+An app offering room listings, mess details, and medical assistance for students.  
+**Tech:** Java, Firebase Realtime DB, XML UI  
+
+---
+
+### **🏥 MediPlus — AI Telemedicine Platform**
+AI-powered disease prediction, severity scoring, and doctor recommendation engine.  
+**Tech:** Flask, Firestore, Selenium, Random Forest ML  
+
+---
+
+## 🧰 Skills Overview
+
+### **Languages**  
+Python · Java · C++ · JavaScript · PHP · SQL  
+
+### **Frontend**  
+React · HTML · CSS · Tailwind · Bootstrap  
+
+### **Backend**  
+Node.js · Flask  
+
+### **Databases**  
+MongoDB · Firebase · MySQL  
+
+### **Tools**  
+Docker · AWS · Git · VS Code · Jupyter  
+
+### **Core CS Concepts**  
+DSA · OOP · DBMS · OS · Computer Networks  
+
+---
+
+## 📊 GitHub Insights
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&show_icons=true&theme=default" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=default" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+📧 **Email:** shaileshsuryawanshi443103@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/shailesh-suryawanshi-6989492a1  
+💻 **GitHub:** github.com/shailesh2909  
+
+---
+
+### ✨ *Thanks for visiting! Feel free to explore my work or connect with me.*
