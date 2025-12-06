@@ -1,104 +1,78 @@
-# 👋 Hi, I'm Shailesh Suryawanshi
+# 👋 Hey there, I'm **Shailesh!** 🚀  
 
-**Full-Stack Developer • AI/ML Enthusiast • Designer**  
-Building efficient, scalable, and meaningful digital products.
-
----
-
-## 🧑‍💻 About Me
-
-I'm an Electronics & Telecommunication Engineering student at **PICT, Pune**, passionate about creating solutions that improve everyday life.  
-I enjoy working across **frontend, backend, and machine learning**, and crafting clean, user-friendly interfaces.
-
-I believe in **learning by building**, which reflects in my hands-on projects and internships.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff)  
 
 ---
 
-## 🚀 Core Highlights
-- Full-Stack Development (React, Node.js, Flask)
-- Machine Learning (Random Forest, Scikit-learn)
-- Mobile App Development (Java + Firebase)
-- Cloud Deployments (Firebase, Vercel)
-- Strong eye for UI/UX & design quality
+## 🚀 About Shailesh  
+
+✨ **Curious Developer | Tech Explorer | Lifelong Learner** ✨  
+
+- 👀 Passionate about **Web Development, Python, and AI-based projects** 🤖💡  
+- 🌱 Currently exploring **Full-Stack Development (Flask, React, Firebase) + Machine Learning (XGBoost, Scikit-learn)** 🧠💻  
+- 🛠️ Skilled in **Python, C++, Java, HTML, CSS, JavaScript**, with experience in **MongoDB, PHP, Firebase Realtime DB**  
+- 💡 Worked on **Phishing Website Detection, Telemedicine Systems, and Student Utility Apps**  
+- 💞️ Loves collaborating on **open-source and innovative projects** 🔥  
+- 🎯 Goal: **Build scalable, efficient, real-world impactful solutions** 🌍  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Rank** — Cyber Security Workshop Quiz (Pursuit 2023)  
-- 💡 **100+ LeetCode DSA problems** solved  
-- 🎨 Held Design Lead roles at PICT (Robotics Club & Social Media Team)
+### 📫 Connect with Me  
+
+📩 **Email:** [shaileshsuryawanshi443103@gmail.com](mailto:shaileshsuryawanshi443103@gmail.com)  
+💼 **LinkedIn:** [Shailesh Suryawanshi](https://www.linkedin.com/in/shailesh-suryawanshi-6989492a1/)  
+📸 **Instagram:** [@29.shailesh_](https://www.instagram.com/29.shailesh_/?next=%2F&hl=en)  
+
+🔹 **Fun fact:**  
+*I once spent hours debugging, only to realize the issue was a missing semicolon. Now I triple-check before questioning my life choices!* 😆💻  
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack  
 
-### **Full-Stack Intern — Gharpan Foundation (2025)**
-- Developed a complete Orphan Management System  
-- Built using **React + Tailwind**, **Node.js + MongoDB**  
-- Integrated Firebase & Google Cloud authentication  
-- Deployed on Vercel  
+### 💻 **Languages**  
+☕ Java | 🐍 Python | 🟦 C++ | 🟡 JavaScript  
 
----
+### 🌐 **Frontend**  
+🎨 HTML | 🎭 CSS | 🎨 Bootstrap | ⚛️ React | 🌊 Tailwind  
 
-### **Python Developer Intern — Sumago Infotech (2024)**
-- Built a Healthcare Chatbot  
-- Worked with Python, PHP, HTML/CSS  
-- Strengthened full-stack development fundamentals  
+### 🖥️ **Backend**  
+⚙️ Node.js | 🐍 Python | ☕ Java | 🌱 MongoDB  
 
----
-
-## 📌 Featured Projects
-
-### **🎒 VitalNex — Student Needs Android App**  
-An app offering room listings, mess details, and medical assistance for students.  
-**Tech:** Java, Firebase Realtime DB, XML UI  
+### 🛢️ **Database & Tools**  
+🗄️ MySQL | 🔥 Firebase | 🛠️ Git & GitHub | 💻 VS Code | 🐳 Docker  
 
 ---
 
-### **🏥 MediPlus — AI Telemedicine Platform**
-AI-powered disease prediction, severity scoring, and doctor recommendation engine.  
-**Tech:** Flask, Firestore, Selenium, Random Forest ML  
+## 📊 GitHub Stats  
 
----
-
-## 🧰 Skills Overview
-
-### **Languages**  
-Python · Java · C++ · JavaScript · PHP · SQL  
-
-### **Frontend**  
-React · HTML · CSS · Tailwind · Bootstrap  
-
-### **Backend**  
-Node.js · Flask  
-
-### **Databases**  
-MongoDB · Firebase · MySQL  
-
-### **Tools**  
-Docker · AWS · Git · VS Code · Jupyter  
-
-### **Core CS Concepts**  
-DSA · OOP · DBMS · OS · Computer Networks  
-
----
-
-## 📊 GitHub Insights
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=radical" />
+</div>  
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&show_icons=true&theme=default" />
+<br>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=default" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-📧 **Email:** shaileshsuryawanshi443103@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/shailesh-suryawanshi-6989492a1  
-💻 **GitHub:** github.com/shailesh2909  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailesh2909&theme=radical" />
+</div>  
 
 ---
 
-### ✨ *Thanks for visiting! Feel free to explore my work or connect with me.*
+## 🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shailesh2909&theme=radical&margin-w=15&margin-h=15" />
+</div>  
+
+---
+
+## 🎶 Now Playing on Spotify  
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31vpxgysutjir5hg5ontr76u7pmy&cover_image=true&theme=default)  
+
+---
+
+🔥 **Keep coding, keep growing, and keep making an impact!** 🚀  
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=150&section=footer)  
