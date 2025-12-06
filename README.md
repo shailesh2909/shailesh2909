@@ -1,69 +1,68 @@
+[0;32m███████╗██╗  ██╗ █████╗ ██╗██╗     ███████╗███████╗██╗  ██╗
+██╔════╝██║  ██║██╔══██╗██║██║     ██╔════╝██╔════╝██║ ██╔╝
+███████╗███████║███████║██║██║     █████╗  █████╗  █████╔╝ 
+╚════██║██╔══██║██╔══██║██║██║     ██╔══╝  ██╔══╝  ██╔═██╗ 
+███████║██║  ██║██║  ██║██║███████╗███████╗███████╗██║  ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝[0m
 
+> Full-Stack Developer  
+> AI & ML Enthusiast  
+> UI/UX Designer  
+> Problem Solver | Terminal Lover
+ 
+A passionate developer from PICT, Pune, crafting software with clean logic, purposeful design, and an obsession with building tools that actually solve real problems.
 
-# 👋 Hey there, I'm **Shailesh!** 🚀  
+[✔] 1st Rank - Cyber Security Workshop Quiz (Pursuit 2023)
+[✔] 100+ LeetCode DSA Problems Solved
+[✔] Design Lead - Robotics Club, PICT
+[✔] Social Media Design Head - PICT
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff)  
+┌──────────────────────────────────────────────────────────────┐
+│ Gharpan Foundation | Full-Stack Intern                       │
+├──────────────────────────────────────────────────────────────┤
+│ • Built Orphan Management System                             │
+│ • Node.js + MongoDB Backend                                  │
+│ • React + Tailwind Frontend                                  │
+│ • Firebase Auth + GCP Integration                            │
+│ • Deployment on Vercel                                       │
+└──────────────────────────────────────────────────────────────┘
 
-## 🚀 About Shailesh  
-✨ **Curious Developer | Tech Explorer | Lifelong Learner** ✨  
+┌──────────────────────────────────────────────────────────────┐
+│ Sumago Infotech | Python Developer Intern                    │
+├──────────────────────────────────────────────────────────────┤
+│ • Built Healthcare Chatbot                                   │
+│ • Full-Stack (Python + PHP)                                  │
+│ • Gained hands-on production workflow experience             │
+└──────────────────────────────────────────────────────────────┘
 
-- 👀 Shailesh is passionate about **Web Development, Python, and AI-based projects** 🤖💡  
-- 🌱 Currently diving deep into **Full-Stack Development using Flask, Firebase, and Machine Learning (XGBoost, Scikit-learn)** 🧠💻  
-- 🛠️ Skilled in **Python, C++, HTML, CSS, JavaScript**, with experience in **MongoDB 🌱, PHP, and Firebase Realtime Database**  
-- 💡 He’s also explored areas like **Phishing Website Detection, Telemedicine Platforms, and Student Utility Apps**  
-- 💞️ Loves collaborating on **open-source, innovative, and socially impactful projects** 🔥  
-- 🎯 His goal? **To build efficient, scalable, and meaningful tech solutions for real-world challenges!** 🌍  
+> VitalNex (Android App)
+    - Student utility app (rooms, mess, medical help)
+    - Java + Firebase + XML UI
 
-### 📫 Connect with Me  
-📩 **Email:** [shaileshsuryawanshi443103@gmail.com](mailto:shaileshsuryawanshi443103@gmail.com)  
-💼 **LinkedIn:** [Shailesh Suryawanshi](https://www.linkedin.com/in/shailesh-suryawanshi-6989492a1/)  
-📸 **Instagram:** [@29.shailesh_](https://www.instagram.com/29.shailesh_/?next=%2F&hl=en)  
+> MediPlus (AI Telemedicine System)
+    - ML disease prediction
+    - Doctor recommendation engine
+    - Severity scoring system
+    - Flask + Firestore + Random Forest
+LANGUAGES: Python | Java | C++ | C | JavaScript | PHP | SQL | TypeScript
 
-🔹 **Fun fact:** *I once spent hours debugging, only to realize the issue was a missing semicolon. Now, I triple-check before questioning my life choices!* 😆💻  
+FRAMEWORKS: React | Node.js | Next.js | Flask | Bootstrap
 
----
+DATABASES: MongoDB | Firebase | MySQL | PostgreSQL | SQLite
 
-## 🛠️ Tech Stack  
+DEVOPS: Docker | Kubernetes | AWS
 
-### 💻 **Languages**  
-☕ Java | 🐍 Python | 🟦 C++ | 🟡 JavaScript   
+ML STACK: Scikit-learn | TensorFlow | PyTorch | Pandas | NumPy
 
-### 🌐 **Frontend**  
-🎨 HTML | 🎭 CSS | 🎨 Bootstrap | ⚛️ React | 🌊 Tailwind  
+CORE CS: DSA | OOP | DBMS | OS | CN | Software Engineering
 
-### 🖥️ **Backend**  
-⚙️ Node.js | 🐍 Python | ☕ Java | 🌱 MongoDB 
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&theme=chartreuse-dark&show_icons=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=chartreuse-dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailesh2909&theme=chartreuse_dark" /> </div>
 
-### 🛢️ **Database & Tools**  
-🗄️ MySQL | 🔥 Firebase | 🛠️ Git & GitHub | 💻 Visual Studio Code | 🐳 Docker
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shailesh2909&theme=matrix&margin-w=10&margin-h=10&no-frame=true" /> </div>
 
----
+> email     : shaileshsuryawanshi443103@gmail.com
+> github    : github.com/shailesh2909
+> linkedin  : linkedin.com/in/shailesh-suryawanshi-6989492a1
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=radical" />
-</div>  
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shailesh2909&theme=radical" />
-</div>  
-
----
-
-## 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shailesh2909&theme=radical&margin-w=15&margin-h=15" />
-</div>  
-
----
-
-## 🎶 Now Playing on Spotify  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31vpxgysutjir5hg5ontr76u7pmy&cover_image=true&theme=default)  
-
-
----
-
-🔥 **Keep coding, keep growing, and keep making an impact!** 🚀  
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:1E90FF&height=150&section=footer)  
+[0;32mSystem shutting down...
+Goodbye, Hacker. Keep building cool stuff.[0m
