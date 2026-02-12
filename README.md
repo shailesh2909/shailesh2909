@@ -60,38 +60,38 @@ const shailesh = {
 ### 🎨 Frontend Magic
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,materialui,redux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap&theme=dark" />
 </p>
 
 ### ⚙️ Backend Powerhouse
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
 </p>
 
 ### 🗄️ Database & Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase&theme=dark" />
 </p>
 
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,react&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,nginx,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,linux,googlecloud,aws&theme=dark" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,netlify&theme=dark" />
 </p>
 
 </div>
@@ -117,10 +117,10 @@ const shailesh = {
 <p align="center"><i>Wellness Anytime Anywhere</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Flask-000000?style=flat&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/ML-RandomForest-3776AB?style=flat&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
@@ -163,10 +163,10 @@ AI-powered telemedicine platform that predicts diseases 🧠, prioritizes patien
 <p align="center"><i>Smart Student Support</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-Java-3DDC84?style=flat&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Auth-FirebaseAuth-FF9800?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/UI-XML-00599C?style=flat&logo=android&logoColor=white" />
 </p>
 
 <p align="center">
@@ -211,10 +211,10 @@ An Android-based centralized platform designed to simplify daily necessities for
 <p align="center"><i>Intelligent Document Intelligence</i></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-SentenceTransformers-FF6F00?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OCR-EasyOCR-43B02A?style=flat" />
+<img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
