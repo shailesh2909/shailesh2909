@@ -107,12 +107,6 @@ const shailesh = {
 <tr>
 <td width="50%">
 <br/>
-<p align="center">
-  <a href="https://github.com/shailesh2909">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shailesh2909&repo=MEDIPLUS&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-</p>
-
 <h3 align="center">💊 MediPlus+</h3>
 <p align="center"><i>Wellness Anytime Anywhere</i></p>
 
@@ -153,12 +147,6 @@ AI-powered telemedicine platform that predicts diseases 🧠, prioritizes patien
 
 <td width="50%">
 <br/>
-<p align="center">
-  <a href="https://github.com/shailesh2909">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shailesh2909&repo=VitalNex-Students-Daily-Needs-Android-Application&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-</p>
-
 <h3 align="center">🚀 VitalNex</h3>
 <p align="center"><i>Smart Student Support</i></p>
 
@@ -201,12 +189,6 @@ An Android-based centralized platform designed to simplify daily necessities for
 <tr>
 <td width="50%">
 <br/>
-<p align="center">
-  <a href="https://github.com/shailesh2909">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shailesh2909&repo=challenge1b&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-  </a>
-</p>
-
 <h3 align="center">📄 Advanced Semantic PDF Analyzer</h3>
 <p align="center"><i>Intelligent Document Intelligence</i></p>
 
@@ -322,7 +304,7 @@ A high-performance AI-powered Python tool that extracts, ranks, and summarizes t
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=shailesh2909&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Shailesh Suryawanshi github stats" />
+  <img width="49%" height="195px"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shailesh2909&theme=tokyonight" />
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=shailesh2909&theme=tokyonight&hide_border=true&stroke=0d1117&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
@@ -331,28 +313,17 @@ A high-performance AI-powered Python tool that extracts, ranks, and summarizes t
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh2909&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shailesh2909&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shailesh2909&theme=tokyonight&utcOffset=5.30" />
 </div>
 
-<details align="center">
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shailesh2909&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</p>
-</details>
-
-<details align="center">
-<summary><b>📈 Contribution Snake</b></summary>
-<br/>
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 🌟 What I'm Up To
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-143a1811-015d-45aa-877f-fc7c6ab98770.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
 
 ```javascript
 const currentlyWorkingOn = [
